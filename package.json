@@ -1,7 +1,7 @@
 {
-	"name": "error-with-code",
+	"name": "__projectName__",
 	"version": "0.1.0",
-	"description": "Easily throw an error with code. The code may be provided on invocation or preset to be used for all invocations. Furthermore, you may set a string that will be prepended to each error message.",
+	"description": "",
 	"main": "dist/main.js",
 	"types": "dist/main.d.ts",
 	"files": [
@@ -11,16 +11,13 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/derkallevombau/error-with-code.git"
+		"url": "https://github.com/derkallevombau/__projectName__.git"
 	},
 	"bugs": {
-		"url": "https://github.com/derkallevombau/error-with-code/issues"
+		"url": "https://github.com/derkallevombau/__projectName__/issues"
 	},
-	"homepage": "https://derkallevombau.github.io/error-with-code/",
+	"homepage": "https://derkallevombau.github.io/__projectName__/",
 	"keywords": [
-		"Throw",
-		"Error",
-		"Code"
 	],
 	"config": {
 		"lintCfgSubtreeRepoBasePath": "git@github.com:derkallevombau/lintcfg-ts"
